@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+.venv/
+venv/ # <-- Esta linha ignora a pasta do seu ambiente virtual
+env/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Scapy (arquivos temporários, se houver)
+*.pcap
+*.pcapng
+
+# Arquivos de modelo ML
+*.pkl
+*.joblib
