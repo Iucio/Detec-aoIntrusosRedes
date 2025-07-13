@@ -124,5 +124,4 @@ Integração de “ml_utils.py” e “packet_processor.py” na aplicação.
 
 Lucio Diniz Araujo Martelo Junior - Gerenciamento do projeto (configuração inicial do ambiente Git/GitHub, divisão de tarefas, acompanhamento).
 Desenvolvimento do script `simulate_attack.py` para simulação de ataques. 
-Condução dos testes de integração e depuração do sistema completo.
-Elaboração de toda a documentação no `README.md` e preparação para a apresentação em vídeo.
+Elaboração da documentação no `README.md` e preparação para a apresentação em vídeo.
